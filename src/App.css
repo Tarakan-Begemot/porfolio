@@ -182,14 +182,14 @@
 
   .linked {
     position: absolute;
-    left: calc(50% - 5vw);
+    left: 30%;
     top: 45%;
     animation: myOrbitMobile 6s linear infinite;
   }
 
   .mail {
     position: absolute;
-    left: calc(50% - 5vw);
+    left: 30%;
     top: 45%;
     animation: myOrbitMobile 6s linear infinite;
     animation-delay: 2s;
@@ -197,7 +197,7 @@
 
   .github {
     position: absolute;
-    left: calc(50% - 5vw);
+    left: 30%;
     top: 45%;
     animation: myOrbitMobile 6s linear infinite;
     animation-delay: 4s;
